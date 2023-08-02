@@ -21,7 +21,7 @@ Download an encrypted firmware image from the Fortinet support site, then run th
 Usage: python3 forticrack.py <FILENAME>
 ```
 
-FortiCrack uses a known-plaintext attack to derive the file encryption key, then decrypts the image data. More details can be found on our blog: [Breaking Fortinet Firmware Encryption](https://bishopfox.com/blog)
+FortiCrack uses a known-plaintext attack to derive the file encryption key, then decrypts the image data. More details can be found on our blog: [Breaking Fortinet Firmware Encryption](https://bishopfox.com/blog/breaking-fortinet-firmware-encryption)
 
 ## Example
 
